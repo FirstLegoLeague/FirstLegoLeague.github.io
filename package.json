@@ -1,7 +1,7 @@
 {
   "name": "FirstLegoLeague.github.io",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "bundle.js",
   "repository": "git@github.com:FirstLegoLeague/FirstLegoLeague.github.io.git",
   "author": "Idan Stark <idanstark42@gmail.com>",
   "license": "GNU GPL"
